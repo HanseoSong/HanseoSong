@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+이것 저것 다 해보고 싶은 학생이에요.
 
+## PS
+### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hssong)](https://solved.ac/hssong)
 
 <!--
