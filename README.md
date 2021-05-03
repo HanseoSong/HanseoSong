@@ -3,7 +3,7 @@
 
 ## PS
 ### Solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hssong)](https://solved.ac/hssong)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=hssong)](https://solved.ac/hssong)
 
 <!--
 **HsSong-97/HsSong-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
