@@ -1,9 +1,9 @@
-# Hi there 👋
+# 안녕하세요!
 이것저것 다 해 보고 싶은 학생이에요.
 
 ## PS
 ### solved.ac
-[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hssong)](https://solved.ac/hssong)
+[![hssong의 solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hssong)](https://solved.ac/hssong)
 
 <!--
 **HsSong-97/HsSong-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
